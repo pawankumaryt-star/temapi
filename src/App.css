@@ -1,0 +1,4 @@
+#root{min-height:100%}
+*{box-sizing:border-box}
+button,a{-webkit-tap-highlight-color:transparent}
+::selection{background:hsl(var(--primary)/.22)}

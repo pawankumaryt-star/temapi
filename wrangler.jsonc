@@ -1,0 +1,14 @@
+{
+  "name": "temapi",
+  "compatibility_date": "2026-02-17",
+  "assets": {
+    "directory": "./dist"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ahcm-db",
+      "database_id": "e87b58b7-9f7f-4d70-92b9-83e1cf19918f"
+    }
+  ]
+}
